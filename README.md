@@ -1,5 +1,12 @@
 # Multi-Label-Attack-Detection-for-Microgrids
 
-This presents a multi-label deep learning-based attack detection approach for the distributed control in AC microgrids. The droop-free distributed control is formulated as an optimization problem with voltage and frequency as the control variables which is then solved using the gradient descent algorithm. The normally distributed attack vectors are considered on the distributed generator's output voltages and active and reactive power measurements. To detect the presence of false measurements, a deep learning-based attack detection strategy is further developed. The proposed attack detection is formulated as a multi-label classification problem to capture the inconsistency and co-occurrence dependencies in the power flow measurements due to the presence of distributed attacks. With this multi-label classification scheme, a single model is able to identify the presence of different attacks and load change simultaneously. Two different deep learning techniques are compared to design the attack detector, and the performance of the proposed distributed control and the attack detector is demonstrated through simulations on the IEEE 34-bus distribution test system.
+This repository contains a multi-label deep learning-based attack detection approach for the distributed control in AC microgrids.
 
 ![framework_deeplearning](https://user-images.githubusercontent.com/32277926/123473486-a09fcc00-d5c6-11eb-8c85-47ee783a517d.png)
+
+# Citing this repository
+Please cite this repository using:
+
+
+# Pulications
+The following publications out of the IRES-FAU research group used/referred to this repository:
