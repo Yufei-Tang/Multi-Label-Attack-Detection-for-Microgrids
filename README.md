@@ -12,7 +12,7 @@ InceptionTime and ResNet models are used to design the attack detector. Both fea
 Please cite this repository using:
 
 @inproceedings{mohiuddin2021deep,
-  title={Deep Learning Based Multi-Label Attack Detection for Distributed Control of AC Microgrids},
+  title={Deep Learning Based Multi-Label Attack Detection for Distributed Control of AC Microgrids},//
   author={Mohiuddin, Sheik and Fung, Sasha and Huang, Yu and Qi, Junjian and Tang, Yufei},
   booktitle={2021 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)},
   pages={},
